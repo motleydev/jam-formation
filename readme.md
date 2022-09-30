@@ -1,0 +1,6 @@
+- Create RDS
+- Create Aurora
+- Lambda load database in RDS
+- Lambda load database in Aurora
+- Create Lambda with REST API
+- hasura on EC2 with existing DB?
